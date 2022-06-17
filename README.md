@@ -37,6 +37,5 @@
   
 ##
   
-<div>
-  ![Snake animation](https://github.com/Marcos-VNC/Marcos-VNC/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/Marcos-VNC/Marcos-VNC/blob/output/github-contribution-grid-snake.svg)
+
