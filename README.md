@@ -1,5 +1,5 @@
 
-## 🏀 Hello, i'm Marcos Vinicius
+## 😄 Hello, i'm Marcos Vinicius
 
   <a href = "mailto:devbatistacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="AQUI VAI O LINK DO LINKEDIM" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
@@ -9,11 +9,7 @@
 - ⚡ Fun fact: I'm developing something really cool 😏
 
 
-<div align="center">
-  <a href="https://github.com/Marcos-VNC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-VNC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-VNC&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🕹 Skills
 <div style="display: inline_block"><br>
 
   <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
@@ -34,8 +30,15 @@
   <code><img height="32" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="Visual Code"/></code>
   <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm"/></code>
 </div>
+
+#
+
+<div align="left">
+  <a href="https://github.com/Marcos-VNC"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-VNC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-VNC&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
-##
-  
+
 ![Snake animation](https://github.com/Marcos-VNC/Marcos-VNC/blob/output/github-contribution-grid-snake.svg)
 
