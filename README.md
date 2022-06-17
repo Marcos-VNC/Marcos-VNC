@@ -1,8 +1,8 @@
 
 ## 😄 Hello, i'm Marcos Vinicius
 
-  <a href = "mailto:devbatistacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="AQUI VAI O LINK DO LINKEDIM" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
+  <a href = "mailto:mvcc94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcos-vinicius-cardoso-correa-5424171b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
  
 - 🔭 I’m currently working on [@Bosch](https://www.bosch.com.br/)
 - 🌱 I’m currently learning Python, JavaScript ...
